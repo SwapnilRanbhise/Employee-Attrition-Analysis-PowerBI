@@ -1,6 +1,6 @@
 <b>Employee Attrition Analysis Report <b>
 
-<b>Project Overview<b>
+<b>Project Overview<b><br>
 The Employee Attrition Analysis project aims to identify and analyze the key factors contributing to employee turnover within an organization. By leveraging Power BI for data visualization and analysis, we can uncover insights that help in developing strategies to retain valuable employees and reduce attrition rates.
 
 <b>Objectives<b>
@@ -9,17 +9,17 @@ The Employee Attrition Analysis project aims to identify and analyze the key fac
 3.	Analyze trends and patterns in attrition data.
 4.	Provide actionable insights to HR and management for improving employee retention.
 
-The dataset used for this analysis includes employee information such as:
-•	Employee ID
-•	Age
-•	Gender
-•	Department
-•	Job Role
-•	Job Level
-•	Years at Company
-•	Monthly Income
-•	Performance Rating
-•	Attrition Status (Yes/No)
+The dataset used for this analysis includes employee information such as:<br>
+•	Employee ID<br>
+•	Age<br>
+•	Gender<br>
+•	Department<br>
+•	Job Role<br>
+•	Job Level<br>
+•	Years at Company<br>
+•	Monthly Income<br>
+•	Performance Rating<br>
+•	Attrition Status (Yes/No)<br>
 
 <b>Key Metrics and KPIs<b>
 1.	Overall Attrition Rate: The percentage of employees who have left the organization.
@@ -56,6 +56,6 @@ The dataset used for this analysis includes employee information such as:
 4.	Tenure Influence: Employees are more likely to leave within their first 2-3 years at the company.
 5.	Performance Impact: Employees with lower performance ratings have a higher likelihood of leaving.
 
-<b>Conclusion<b>
+<b>Conclusion<b><br>
 By utilizing Power BI for this employee attrition analysis, we have gained valuable insights into the factors driving employee turnover. These insights can help the organization develop targeted strategies to improve employee retention, thereby enhancing overall organizational performance and employee satisfaction.
 
